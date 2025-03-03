@@ -222,110 +222,113 @@
       }
     }
   },
-  "page3" : {
-    "header" : {
-      "text1" : "Amazon Complex Launch",
-      "text2" : "Business on Amazon is a profitable thing but it’s not easy and time-consuming. Our team has been through it for multiple times. We will build your business as well: we do and consult, you make decisions."
+  "page3": {
+    "header": {
+      "text1": "Amazon Complex Launch",
+      "text2": "Business on Amazon is a profitable thing but it’s not easy and time-consuming. Our team has been through it for multiple times. We will build your business as well: we do and consult, you make decisions."
     },
-    "section1" : {
-      "text1" : "What We Offer",
-      "text2" : "Analytics",
-      "text3" : "Analysis of the USA and European markets;",
-      "text4" : "Selection of the niche and product on Amazon;",
-      "text5" : "Business plan development.",
-      "text6" : "Suppliers",
-      "text7" : "Supplier search;",
-      "text8" : "Supplier revision;",
-      "text9" : "Goods inspection;",
-      "text10" : "Delivery of goods to Amazon warehouse.",
-      "text11" : "Listing",
-      "text12" : "Analysis of competitor’s reviews and goods;",
-      "text13" : "Keywords selection (200-600);",
-      "text14" : "Copywriting texts;",
-      "text15" : "Product photosession (actionable, in studio);",
-      "text16" : "Design of advertising images;",
-      "text17" : "Creation of ready-made Amazon page.",
-      "text18" : "Branding",
-      "text19" : "Creation of new brand name;",
-      "text20" : "Development of logo and style;",
-      "text21" : "Package design;",
-      "text22" : "Creation of additional production: inserts, instructions, leaflets.",
-      "text23" : "Marketing",
-      "text24" : "PPC advertising (Amazon, Facebook, Google, Instagram);",
-      "text25" : "Listing audit and optimization;",
-      "text26" : "Review generation;",
-      "text27" : "Landing page development.",
-      "text28" : "Data scraping",
-      "text29" : "Action plan for eCommerce growth;",
-      "text30" : "Digital shelf analytics for any retailer;",
-      "text31" : "Amazon sales, share, traffic and conversion analytics;",
-      "text32" : "Expert recommendations & analysis. "
+    "section1": {
+      "text1": "What We Offer",
+      "text2": "Analytics",
+      "text3": "Analysis of the USA and European markets;",
+      "text4": "Selection of the niche and product on Amazon;",
+      "text5": "Business plan development.",
+      "text6": "Suppliers",
+      "text7": "Supplier search;",
+      "text8": "Supplier revision;",
+      "text9": "Goods inspection;",
+      "text10": "Delivery of goods to Amazon warehouse.",
+      "text11": "Listing",
+      "text12": "Analysis of competitor’s reviews and goods;",
+      "text13": "Keywords selection (200-600);",
+      "text14": "Copywriting texts;",
+      "text15": "Product photosession (actionable, in studio);",
+      "text16": "Design of advertising images;",
+      "text17": "Creation of ready-made Amazon page.",
+      "text18": "Branding",
+      "text19": "Creation of new brand name;",
+      "text20": "Development of logo and style;",
+      "text21": "Package design;",
+      "text22": "Creation of additional production: inserts, instructions, leaflets.",
+      "text23": "Marketing",
+      "text24": "PPC advertising (Amazon, Facebook, Google, Instagram);",
+      "text25": "Listing audit and optimization;",
+      "text26": "Review generation;",
+      "text27": "Landing page development.",
+      "text28": "Data scraping",
+      "text29": "Action plan for eCommerce growth;",
+      "text30": "Digital shelf analytics for any retailer;",
+      "text31": "Amazon sales, share, traffic and conversion analytics;",
+      "text32": "Expert recommendations & analysis. "
     },
-    "section2" : {
-      "text1" : "Meet Our Team",
-      "text2" : "Account Manager",
-      "text3" : "Analytics",
-      "text4" : "Logisticians",
-      "text5" : "Progect Manager",
-      "text6" : "Designer",
-      "text7" : "Retousher",
-      "text8" : "Copywriter",
-      "text9" : "Photographer",
-      "text10" : "Marketer",
-      "text11" : "PPC-specialist"
+    "section2": {
+      "text1": "Meet Our Team",
+      "text2": "Account Manager",
+      "text3": "Analytics",
+      "text4": "Logisticians",
+      "text5": "Progect Manager",
+      "text6": "Designer",
+      "text7": "Retousher",
+      "text8": "Copywriter",
+      "text9": "Photographer",
+      "text10": "Marketer",
+      "text11": "PPC-specialist"
     },
-    "section3" : {
-      "text1" : "How It Works",
-      "text2" : "Make your choice",
-      "text3" : "Select all necessary services you need.",
-      "text4" : "Submit a request",
-      "text5" : "Complete the form and send it to us.",
-      "text6" : "Work Evaluation",
-      "text7" : "We will apply the best offer to you.",
-      "text8" : "Start Working",
-      "text9" : "That`s it! We are ready to start working."
+    "section3": {
+      "text1": "How It Works",
+      "text2": "Make your choice",
+      "text3": "Select all necessary services you need.",
+      "text4": "Submit a request",
+      "text5": "Complete the form and send it to us.",
+      "text6": "Work Evaluation",
+      "text7": "We will apply the best offer to you.",
+      "text8": "Start Working",
+      "text9": "That`s it! We are ready to start working."
     }
   },
-  "page4" : {
-    "header" : {
-      "text1" : "Utility Bills for Amazon Account Verification",
-      "text2" : "You will receive complete documents in English ready to send out."
+  "page4": {
+    "header": {
+      "text1": "Utility Bills for Amazon Account Verification",
+      "text2": "You will receive complete documents in English ready to send out."
     },
-    "section1" : {
-      "text1" : "Documents ready to send out",
-      "text2" : "Electricity Bill",
-      "text3" : "Gas/Water Bill",
-      "text4" : "Internet Bill",
-      "text5" : "Rapidity",
-      "text6" : "English Language",
-      "text7" : "Manual"
+    "section1": {
+      "text1": "Documents ready to send out",
+      "text2": "Electricity Bill",
+      "text3": "Gas/Water Bill",
+      "text4": "Internet Bill",
+      "text5": "Rapidity",
+      "text6": "English Language",
+      "text7": "Manual"
     },
-    "section2" : {
-      "text1" : "Leave a request to get your utility bill",
-      "text2" : "It will take you less than sixty seconds. A member of our team will contact you shortly after."
+    "section2": {
+      "text1": "Leave a request to get your utility bill",
+      "text2": "It will take you less than sixty seconds. A member of our team will contact you shortly after."
     },
-    "section3" : {
-      "text1" : "Invoices for Amazon from a US supplier with a call",
-      "text2" : "You will receive complete documents in English ready to send out.",
-      "text3" : "Get an invoice"
+    "section3": {
+      "text1": "Invoices for Amazon from a US supplier with a call",
+      "text2": "You will receive complete documents in English ready to send out.",
+      "text3": "Get an invoice"
     },
-    "section4" : {
-      "text1" : "Invoices from a US supplier",
-      "text2" : "This is an officially registered US wholesale supplier: The whole process will take place within the US law and complying with all Amazon requirements.",
-      "text3" : "You receive invoices with all the instructions in 1-2 days after ordering. The supplier can also answer Amazon call on invoices."
+    "section4": {
+      "text1": "Invoices from a US supplier",
+      "text2": "This is an officially registered US wholesale supplier: The whole process will take place within the US law and complying with all Amazon requirements.",
+      "text3": "You receive invoices with all the instructions in 1-2 days after ordering. The supplier can also answer Amazon call on invoices."
     },
-    "section5" : {
-      "text1" : "Invoices can unlock",
-      "text2" : "If you receive an invoice request, then you can do more than just unlocking your account."
+    "section5": {
+      "text1": "Invoices can unlock",
+      "text2": "If you receive an invoice request, then you can do more than just unlocking your account."
     },
-    "section6" : {
-      "text1" : "Invoice is requested to verify your account or in connection with some violations.",
-      "text2" : "If you want permission to add a listing to your inventory.",
-      "text3" : "If you want to have access to a certain category."
+    "section6": {
+      "text1": "Invoice is requested to verify your account or in connection with some violations.",
+      "text2": "If you want permission to add a listing to your inventory.",
+      "text3": "If you want to have access to a certain category."
     },
-    "section7" : {
-      "text1" : "If you want to have access to a certain category.",
-      "text2" : "In 90% of cases, Amazon call suppliers on invoices. If the company doesn’t manage to contact the supplier, then you will receive an email that Amazon was “unable to verify the supplier”."
+    "section7": {
+      "text1": "If you want to have access to a certain category.",
+      "text2": "In 90% of cases, Amazon call suppliers on invoices. If the company doesn’t manage to contact the supplier, then you will receive an email that Amazon was “unable to verify the supplier”."
     }
+  },
+  "get": {
+    "text1": "Many investors and crypto traders, who have not yet started their careers and are in the crypto-currency market, admit one serious mistake – they buy only bitcoins and don’t use crypto trading robot. To some extent this is correct, since bitcoin is the most famous asset and its growth has been quite significant lately. On the other hand, any professional trader and investor knows that the most important aspect of success is diversification. Accordingly, it is desirable to buy not only bitcoin, but also other cryptocurrencies. In this case, the fall of one of them can be compensated by the growth of the other. Another recommendation for beginner crypto traders is to find opportunities for arbitrage. This is one of the simplest strategies, which, at least, does not require any knowledge and does not require the study of crypto trading. The essence of this technique is that the trader is looking for a difference in prices for the same asset on two or more exchanges. When he finds such a difference, he takes advantage of the moment and profits from it. Let us give an example. Suppose a trader works with bitcoin, whose exchange rate on A is 10,000USD. At the exchange B for the same asset is 10 500USD. In this case, you need to buy BTC on Exchange A, and then sell the same asset on Exchange B. Dirty profit will be 500USD. Net trader will receive less, since the stock exchange in any case has commissions. In addition, certain amounts are lost on payments when replenishing the account and withdrawing funds. In any case, this strategy is interesting and today it is used by many traders. For beginners and not only they can recommend – never invest in transactions more than they can afford. First, it will significantly increase the psychological burden. Especially if money was borrowed from relatives or acquaintances, or on credit with a bank. Secondly, debts and credit will have to be returned in case of failure. Most often, this permanently, if not forever, discourages people from engaging in crypto trading and investing. Therefore, initially, it is better to risk insignificant amounts that a trader can afford to lose. Finally, it is important to remember the risks. The fact is that crypto-currencies are very volatile. Daily fluctuations can reach 20-40%. Here, as wide opportunities open up, so are huge risks. It is important first of all to understand all the dangers. In this case, the trader will be able to minimize risks through his actions."
   }
 }
