@@ -204,14 +204,14 @@ const GetById = () => {
     <>
       <h1
         onClick={back}
-        className="text-[50px] font-bold cursor-pointer ml-[50px]"
+        className="text-[50px] font-bold cursor-pointer lg:ml-[50px]"
       >
         ←
       </h1>
       {cards.find((card) => card.id === id) ? (
         <div>
           <div className="flex flex-col items-center">
-            <h1 className="text-[#222F3E] text-4xl font-bold">
+            <h1 className="text-[#222F3E] lg:text-start text-center text-4xl font-bold">
               {cards.find((card) => card.id === id).title[i18]}
             </h1>
             <p className="text-[#222F3E] text-xl font-normal">
