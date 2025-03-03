@@ -675,7 +675,7 @@ const Home = () => {
       </section>
       <section className="relative">
         <h2 className="font-bold my-20 text-4xl text-center">FAQ</h2>
-        <img src={cube1} className="absolute top-[0%] left-[60%] z-[-1]" alt="" />
+        <img src={cube1} className="absolute top-[0%] lg:block hidden left-[60%] z-[-1]" alt="" />
         <img src={cube2} className="absolute top-[40%] right-[17%] lg:block hidden" alt="" />
         <img src={cube3} className="absolute top-[90%] z-[-1] lg:left-[25%]" alt="" />
         <div className="flex justify-between lg:w-[40%] w-[80%] mt-10 rounded-2xl items-center m-auto p-3 border bg-white border-gray-200 ">

@@ -138,7 +138,7 @@ const About = () => {
         <aside className="lg:w-[500px] relative">
           <img
             src={cube1}
-            className="absolute top-[-10%] z-[-1] right-[-17%]"
+            className="absolute top-[-10%] z-[-1] lg:block hidden right-[-17%]"
             alt=""
           />
           <img
@@ -438,7 +438,7 @@ const About = () => {
         <h2 className="font-bold my-20 text-4xl text-center">FAQ</h2>
         <img
           src={cube1}
-          className="absolute top-[0%] left-[60%] z-[-1]"
+          className="absolute top-[0%] lg:block hidden left-[60%] z-[-1]"
           alt=""
         />
         <div className="flex justify-between lg:w-[40%] w-[80%] mt-10 rounded-2xl items-center m-auto p-3 border bg-white border-gray-200 ">
