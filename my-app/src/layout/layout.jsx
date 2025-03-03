@@ -21,6 +21,7 @@ const Layout = () => {
   function TranslateClick(lang) {
     i18n.changeLanguage(lang);
     setActiveLang(lang);
+    closeModal()
   }
   const handleChange = (event) => {
     navigate(event.target.value);
@@ -49,7 +50,7 @@ const Layout = () => {
             >
               {t("Example.navbar.text2")}
             </NavLink>
-            <select className="bg-gray-800 text-white" onChange={handleChange}>
+            <select className="bg-[#222F3E] text-white w-[80px]" onChange={handleChange}>
               <option value="">{t("Example.navbar.text3")}</option>
               <option value="/contact">Amazon Complex</option>
               <option value="/contact2">Utility Bills</option>
@@ -133,7 +134,7 @@ const Layout = () => {
               >
                 {t("Example.navbar.text2")}
               </NavLink>
-              <select className="bg-gray-800 text-white" onChange={handleChange}>
+              <select className="bg-gray-800 text-white w-[80px]" onChange={handleChange}>
                 <option value="">{t("Example.navbar.text3")}</option>
                 <option value="/contact">Amazon Complex</option>
                 <option value="/contact2">Utility Bills</option>

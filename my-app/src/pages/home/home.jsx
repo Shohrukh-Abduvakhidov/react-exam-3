@@ -39,10 +39,10 @@ const Home = () => {
       <section id="back1" className="lg:w-[100%] py-[50px]">
         <div className="flex flex-col lg:flex-row gap-[30px] m-auto items-center w-[90%]">
           <aside className="lg:w-[563px]">
-            <h1 className="text-[42px] lg:text-start text-center text-[#fff] py-[20px] font-bold">
+            <h1 className="lg:text-[42px] text-[25px] lg:text-start text-center text-[#fff] py-[20px] font-bold">
               {t("Example.headerHome.text1")}
             </h1>
-            <p className="text-[32px] text-[gray] py-[10px] lg:text-start text-center">
+            <p className="lg:text-[32px] text-[22px] text-[gray] py-[10px] lg:text-start text-center">
               {t("Example.headerHome.text1")}
             </p>
             <button className="bg-[#EB5F07] lg:text-start lg:pl-0 pl-[100px] text-center lg:w-auto w-full py-[10px] px-[20px] rounded-md text-[#fff] font-bold flex gap-[20px]">
