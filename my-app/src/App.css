@@ -1,0 +1,11 @@
+* {
+  font-family: "Futura PT", sans-serif;
+}
+@import url("https://fonts.cdnfonts.com/css/futura-condensed-pt");
+
+#back-1
+{
+  background-image: url("./assets/Union\ \(1\).png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
